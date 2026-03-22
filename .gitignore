@@ -1,0 +1,5 @@
+# Ignorar binarios en el repo (se suben como Release)
+*.exe
+laiadesk-darwin-*
+laiadesk-linux-*
+laiadesk-windows-*
